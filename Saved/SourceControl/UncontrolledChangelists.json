@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/projet/Projet_Test_Technique_Octobre/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
+				"E:/projet/Projet_Test_Technique_Octobre/Content/FirstPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
