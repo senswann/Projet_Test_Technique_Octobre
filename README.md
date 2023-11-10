@@ -23,15 +23,23 @@ Voici la base du projet, il faudra donc pouvoir avoir une prévisualisation de l
 
 # Commandes
 
-ZQSD : Déplacement
-Espace : Pour Sauter
-Tab : Pour le menu
+<b>ZQSD :</b> Déplacement
 
-Molette : Pour se balader dans l'inventaire
-F : Pour la preview de build
-A/R : Pour la rotation de la preview
-G : Pour détruire une construction
+<b>Espace :</b> Pour Sauter
 
-Click gauche : Pour valider la construction
-Click Droit : Pour annuler la preview ou la destruction
+<b>Tab :</b> Pour le menu
+
+
+<b>Molette :</b> Pour se balader dans l'inventaire
+
+<b>F :</b> Pour la preview de build
+
+<b>A/R :</b> Pour la rotation de la preview
+
+<b>G :</b> Pour détruire une construction
+
+
+<b>Click gauche :</b> Pour valider la construction
+
+<b>Click Droit :</b> Pour annuler la preview ou la destruction
 
